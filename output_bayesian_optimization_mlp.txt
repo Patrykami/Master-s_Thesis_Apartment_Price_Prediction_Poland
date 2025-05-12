@@ -1,0 +1,144 @@
+Decoded Best Hyperparameters:
+activation: relu
+alpha: 0.001
+early_stopping: False
+hidden_layer_sizes: (150, 100, 50)
+learning_rate: constant
+max_iter: 2000
+solver: lbfgs
+
+Bayesian Optimization Results:
+Trial 0:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(3)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(1)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 13231338332.468037
+Status: ok
+--------------------------------------------------
+Trial 1:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(3)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(1)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(1)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 10665917388.93569
+Status: ok
+--------------------------------------------------
+Trial 2:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(2)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(0)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 10231976262.693638
+Status: ok
+--------------------------------------------------
+Trial 3:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(2)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(1)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 9450238179.31213
+Status: ok
+--------------------------------------------------
+Trial 4:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(2)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 10416294001.398739
+Status: ok
+--------------------------------------------------
+Trial 5:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+Trial 6:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(2)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 9704819851.194075
+Status: ok
+--------------------------------------------------
+Trial 7:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(2)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(0)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 10862317702.382689
+Status: ok
+--------------------------------------------------
+Trial 8:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(2)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 11226447496.002462
+Status: ok
+--------------------------------------------------
+Trial 9:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(1)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(1)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 10659024065.571716
+Status: ok
+--------------------------------------------------
+Trial 10:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(0)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 9715365830.870213
+Status: ok
+--------------------------------------------------
+Trial 11:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(1)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 10176651591.32132
+Status: ok
+--------------------------------------------------
+Trial 12:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(2)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(1)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 10862317702.382689
+Status: ok
+--------------------------------------------------
+Trial 13:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(1)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(0)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 11418198065.775373
+Status: ok
+--------------------------------------------------
+Trial 14:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(0)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 10739119998.360209
+Status: ok
+--------------------------------------------------
+Trial 15:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(3)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 11226447496.002462
+Status: ok
+--------------------------------------------------
+Trial 16:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(3)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 9521283725.541836
+Status: ok
+--------------------------------------------------
+Trial 17:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(1)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 9404341380.238255
+Status: ok
+--------------------------------------------------
+Trial 18:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(0)], 'early_stopping': [np.int64(0)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(0)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 10739119998.360209
+Status: ok
+--------------------------------------------------
+Trial 19:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(3)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(2)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(1)], 'solver': [np.int64(0)]}
+Loss (Mean MSE): 10106121238.013342
+Status: ok
+--------------------------------------------------
+Trial 20:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+Trial 21:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+Trial 22:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+Trial 23:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+Trial 24:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+Trial 25:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(1)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Loss (Mean MSE): 8792050477.21868
+Status: ok
+--------------------------------------------------
+
+Best Trial:
+Hyperparameters: {'activation': [np.int64(0)], 'alpha': [np.int64(1)], 'early_stopping': [np.int64(1)], 'hidden_layer_sizes': [np.int64(0)], 'learning_rate': [np.int64(0)], 'max_iter': [np.int64(3)], 'solver': [np.int64(1)]}
+Mean MSE: 8792050477.21868
